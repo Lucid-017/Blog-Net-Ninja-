@@ -1,0 +1,23 @@
+{
+    "blogs":[
+        {
+            "title":"my new website", 
+            "body":"lorem ipsum...", 
+            "author":"Austin",
+            "id":1
+        },
+        {
+            "title":"Hero Academia", 
+            "body":"lorem ipsum...", 
+            "author":"Deku",
+            "id":1
+        },
+        {
+            "title":"All for one", 
+            "body":"lorem ipsum...", 
+            "author":"Deku",
+            "id":1
+        }
+        
+    ]
+}
