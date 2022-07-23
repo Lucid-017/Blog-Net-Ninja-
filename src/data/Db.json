@@ -1,20 +1,20 @@
 {
     "blogs":[
         {
-            "title":"my new website", 
-            "body":"lorem ipsum...", 
+            "title":"Katsuki Bakugo", 
+            "body":"Katsuki is a young man of average height, with a slim, muscular build, and a fair skin tone. He has short, spiky, sandy blonde hair with choppy bangs that hang over his eyebrows. His eyes are sharp and bright red in color.Due to the injuries he sustained during the Paranormal Liberation War, Katsuki has two scars on his body: one on his left shoulder and one on his lower stomach area.Furthermore, during his final battle against Tomura Shigaraki, his right arm was badly crushed by the villain and his right side of the face was heavily scarred after he failed to blast Tomura with his Ultimate Move: Howitzer Impact: Cluster.", 
             "author":"Austin",
             "id":1
         },
         {
             "title":"Hero Academia", 
-            "body":"lorem ipsum...", 
+            "body":"The series has been serialized in Shueisha's Weekly Shōnen Jump since July 2014, with its chapters additionally collected into 35 tankōbon volumes as of July 2022. The series has also inspired numerous spin-off manga, such as My Hero Academia: Smash!!, My Hero Academia: Vigilantes and My Hero Academia: Team-Up Missions, as well as an anime television series by Bones. Its first season aired in Japan from April to June 2016, followed by a second season from April to September 2017, then a third season from April to September 2018, a fourth season from October 2019 to April 2020, a fifth season from March to September 2021, and an upcoming sixth season. It has also received three animated films, titled My Hero Academia: Two Heroes, My Hero Academia: Heroes Rising, and My Hero Academia: World Heroes' Mission respectively. There are plans for a live-action film by Legendary Entertainment.", 
             "author":"Deku",
             "id":2
         },
         {
             "title":"All for one", 
-            "body":"lorem ipsum...", 
+            "body":"All For One 'オール・フォー・ワン Ōru Fō Wan?', surname Shigaraki '死し柄がら木き Shigaraki?', is the overarching antagonist of the My Hero Academia manga and anime series. He is the founder and benefactor of the League of Villains.Once Japan's most powerful villain, and All Might's arch-nemesis, his full identity is unknown. His ultimate goal is to steal his younger brother's Quirk, One For All, the only Quirk that can oppose him, shaping Tomura Shigaraki into the perfect vessel before eventually conquering the rest of the world.", 
             "author":"Deku",
             "id":3
         }

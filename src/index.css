@@ -49,3 +49,16 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+.blog-details article {
+  max-width: 600px;
+  margin: 40px auto;
+}
+.blog-details article h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.blog-details .author{
+  margin-bottom: 8px;
+  font-weight: 600;
+}
